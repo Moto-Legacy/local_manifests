@@ -4,11 +4,11 @@ LineageOS 23.2 (Android 16) for the Moto G 2013 (**falcon**) and the Moto G
 LTE (**peregrine**), on their 3.4 kernel.
 
 ```sh
-git clone https://github.com/FPSensor/local_manifests_msm8226 -b lineage-23.2 .repo/local_manifests
+git clone https://github.com/Moto-Legacy/local_manifests -b lineage-23.2 .repo/local_manifests
 ```
 
 The full build steps, including the patches this needs, are in
-[lineage-23.2-kernel34-patches](https://github.com/FPSensor/lineage-23.2-kernel34-patches#building-for-the-moto-g-2013-falcon--moto-g-lte-peregrine).
+[patches](https://github.com/Moto-Legacy/patches#building-for-the-moto-g-2013-falcon--moto-g-lte-peregrine).
 
 ## Trees
 
